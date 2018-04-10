@@ -2,6 +2,8 @@
 
 > ### Base project made with much  :heart: . Contains CRUD, official style guide, patterns, custom library, etc.
 
+### This one should be changed!
+
 ![travis](https://travis-ci.org/Ismaestro/angular5-example-app.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/Ismaestro/angular5-example-app/badge.svg?branch=master)](https://coveralls.io/github/Ismaestro/angular5-example-app?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9d190a60fc864060ac054ba17a4e92e4)](https://www.codacy.com/app/Ismaestro/angular5-example-app?utm_source=github.com&utm_medium=referral&utm_content=Ismaestro/angular5-example-app&utm_campaign=badger)
@@ -17,12 +19,6 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/ismaestro/angular5-example-app.svg?style=social&label=Fork)](https://github.com/ismaestro/angular5-example-app/fork)
 [![GitHub stars](https://img.shields.io/github/stars/ismaestro/angular5-example-app.svg?style=social&label=Star)](https://github.com/ismaestro/angular5-example-app)
-
-### DEMO
-
-Live DEMO [here](http://angularexampleapp.com/)!
-
-[![angular-example-app](http://thumbsnap.com/i/aIpN07i3.png?0812)](http://angularexampleapp.com/)
 
 ## Usage
 
@@ -91,30 +87,4 @@ This library contains a sample module, component, pipe, directive, all with test
 
 You can see how to use it, or develop a new one in the repository. Any doubts, please submit an issue or make a pull request.
 
-## Travis CI
-We use Travis CI to run this tasks in order:
-* Linter
-* Tests
-* Build for production
-* Deploy in Github pages
-:)
-
-## Contributing
-- Please see the CONTRIBUTING file for guidelines.
-- Create **pull requests, submit bugs, suggest new features** or documentation updates :wrench:
-
-## Server
-
-This repo is using an API which is [a minimal app](https://github.com/Ismaestro/nodejs-example-app) in NodeJS deployed on Heroku and using PostGreSQL, to create, modify and delete heroes.
-
-## Contributors
-
-Thanks to all contributors and their support!
-
-## License
-
-MIT
-
 Enjoy :metal:
-
-We are always happy to hear your feedback!

@@ -1,7 +1,6 @@
 {
-  "name": "angular-example-app",
-  "version": "5.2.0",
-  "license": "MIT",
+  "name": "angular-5-example-app",
+  "version": "1.0.0",
   "scripts": {
     "start": "ng serve",
     "build": "ng build --prod",
